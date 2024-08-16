@@ -7,13 +7,13 @@ from pyrogram import filters
 load_dotenv()
 
 
-API_ID = 
-API_HASH = ""
-BOT_TOKEN = ""
+API_ID = 29489874
+API_HASH = "db43f929f9eb42017a9b3c7e149036d9"
+BOT_TOKEN = "7530026109:AAFdsP5Jh8PAQttoA3_Vz1SEDmwuQwqp7Yc"
 MONGO_DB_URI = ""
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 LOGGER_ID = 
-OWNER_ID = 
+OWNER_ID =  5496411145
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
